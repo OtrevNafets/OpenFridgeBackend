@@ -1,0 +1,173 @@
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\appsettings.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.exe
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.deps.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.runtimeconfig.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.pdb
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.csproj.AssemblyReference.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.AssemblyInfoInputs.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.AssemblyInfo.cs
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets\msbuild.Api.OpenFridge.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets\msbuild.build.Api.OpenFridge.props
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api.OpenFridge.props
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api.OpenFridge.props
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\scopedcss\bundle\Api.OpenFridge.styles.css
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.csproj.CopyComplete
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\refint\Api.OpenFridge.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.pdb
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.genruntimeconfig.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\ref\Api.OpenFridge.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\appsettings.Development.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\appsettings.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.exe
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.deps.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.runtimeconfig.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Api.OpenFridge.pdb
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Azure.Core.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Azure.Identity.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Humanizer.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.CodeDom.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Text.Json.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\DataAccess.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\bin\Debug\net6.0\DataAccess.pdb
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.csproj.AssemblyReference.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.AssemblyInfoInputs.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.AssemblyInfo.cs
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.csproj.CoreCompileInputs.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.MvcApplicationPartsAssemblyInfo.cs
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.MvcApplicationPartsAssemblyInfo.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\scopedcss\bundle\Api.OpenFridge.styles.css
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.csproj.CopyComplete
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\refint\Api.OpenFridge.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.pdb
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\Api.OpenFridge.genruntimeconfig.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\Api.OpenFridge\obj\Debug\net6.0\ref\Api.OpenFridge.dll

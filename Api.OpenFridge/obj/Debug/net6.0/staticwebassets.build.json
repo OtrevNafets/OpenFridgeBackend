@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dsekyo8rJ5jXqj6gF4FNWjjn4ZXwjmxTZEY0m82+0NE=",
+  "Source": "Api.OpenFridge",
+  "BasePath": "_content/Api.OpenFridge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

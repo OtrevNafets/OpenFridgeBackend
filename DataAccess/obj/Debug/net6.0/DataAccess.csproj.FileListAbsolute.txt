@@ -1,0 +1,28 @@
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Stefan Vetro\source\repos\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Projekte\OpenFridgeBackend\OpenFridgeBackend\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
